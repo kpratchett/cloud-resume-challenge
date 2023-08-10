@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+main {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 900px;
+    background-color: white;
+}
+
+.name {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #942637
+}
+.heading {
+    line-height: 1em;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    letter-spacing: 1px;
+ 
+}
+
+
+.work-exp {
+    line-height: 2px;
+}
+
+
+.header {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #942637
+}
+
+hr {
+    border-color: #942637;
+    background-color: #942637;
+    height: 1px;
+}
+
+li
+{
+  line-height: 1.5;
+}
+
+.date {
+    font-weight: bold; 
+    text-align: right;
+    display: inline-block;
+    width: 25%
+}
+
+.company {
+    font-weight: bold;
+    text-align: left;
+    display: inline-block;
+    width: 75%
+}
+
+.title {  
+    font-style: italic;
+}
+
+.school {
+    font-weight: bold;
+}
+
+
+
+
